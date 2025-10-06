@@ -1,3 +1,0 @@
-[submodule "aws-foundational"]
-	path = aws-foundational
-	url = git@github.com:amt-richard-bouaro/aws-foundational.git
