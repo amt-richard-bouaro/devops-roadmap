@@ -1,0 +1,3 @@
+[submodule "aws-devops-foundational"]
+	path = aws-devops-foundational
+	url = git@github.com:rbouaro-se/aws-foundational.git
